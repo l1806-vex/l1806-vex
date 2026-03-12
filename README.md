@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Jakub**, a 17-year-old developer from Poland. I've been working with computer science for 8 years, focusing on modern web technologies, backend development, and technical research.  
+I'm **Jakub**, a 17-year-old developer from Poland. I've been working with computer science for 9 years, focusing on modern web technologies, backend development, and technical research.  
 I develop systems, tools, and services at **VEX Systems**.
 
 ## What I Do
