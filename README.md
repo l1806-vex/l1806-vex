@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Jakub**, a 16-year-old developer from Poland. I've been working with computer science for 8 years, focusing on modern web technologies, backend development, and technical research.  
+I'm **Jakub**, a 17-year-old developer from Poland. I've been working with computer science for 8 years, focusing on modern web technologies, backend development, and technical research.  
 I develop systems, tools, and services at **VEX Systems**.
 
 ## What I Do
@@ -16,7 +16,7 @@ I develop systems, tools, and services at **VEX Systems**.
   - Website: https://vex.systems  
 
 ## WakaTime
-
+<a href="https://wakatime.com/vloud"><img height="480" src="https://wakatime.com/share/@vLoud/dba01482-9e64-4b06-a706-9ab4fd7d18dc.png" /></a><br>
 [![wakatime](https://wakatime.com/badge/user/32207571-bf9e-4f16-86e2-83acbbba16b3.svg)](https://wakatime.com/@32207571-bf9e-4f16-86e2-83acbbba16b3)
 
 ## Links
