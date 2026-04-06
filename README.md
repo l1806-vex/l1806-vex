@@ -16,7 +16,7 @@ I develop systems, tools, and services at **VEX Systems**.
   - Website: https://vex.systems  
 
 ## WakaTime
-<a href="https://wakatime.com/vloud"><img height="480" src="https://wakatime.com/share/@vLoud/dba01482-9e64-4b06-a706-9ab4fd7d18dc.png" /></a><br>
+<a href="https://wakatime.com/vloud"><img height="480" src="https://wakatime.com/share/@x_x/1a79d104-9d92-4c62-ae45-5074360aa55d.png" /></a><br>
 [![wakatime](https://wakatime.com/badge/user/32207571-bf9e-4f16-86e2-83acbbba16b3.svg)](https://wakatime.com/@32207571-bf9e-4f16-86e2-83acbbba16b3)
 
 ## Links
